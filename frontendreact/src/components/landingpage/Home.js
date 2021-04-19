@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className="home-container">
       <img src={lenx} alt="lenx" />
+      <p>lorem ipsum</p>
       <h1>Create an account or Login</h1>
       <div className="home-action-btn">
         <button>
